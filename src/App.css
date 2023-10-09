@@ -1,0 +1,10 @@
+body {
+    background-color: gray;
+}
+
+@media (max-width: 645px) {
+    .resDes {
+        display: flex;
+        flex-direction: column;
+    }
+}
